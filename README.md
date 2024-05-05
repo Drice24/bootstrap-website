@@ -1,4 +1,4 @@
 # bootstrap-website
-HTML5&amp;CSS3 + Bootstrap5 final exercises
+HTML5, CSS3 + Bootstrap5 Final website
 
 Live site: https://drice24.github.io/bootstrap-website/html-exam/
